@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**FriedVoxelsDev/FriedVoxelsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm **Darsh**, a 13yr old student enthusiastic about Game Development
+_______________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+# What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## I'm currently learning Web Development using React & Tailwind CSS
+  
+  ## I'm currently particpating/preparing for the Sparkhacks Hackathon hosted by CodeNinjas & The Brackeys Game Jam   2026.2
+ _______________________________________________________________________________________________________________________
+ # Toolkit
+ 
+  ## **Languages**: **Lua and JavaScript**
+  ## **FrameWorks**: **Love2D and React.js**
+  ## **Editors**: **VS Code, Sublime Text, Zed**
+  ##**Art Editors**: **Aseprite, Figma, Canva**
