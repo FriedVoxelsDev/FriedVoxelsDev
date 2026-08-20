@@ -14,4 +14,4 @@ ________________________________________________________________________________
   ## **Languages**: **Lua and JavaScript**
   ## **FrameWorks**: **Love2D and React.js**
   ## **Editors**: **VS Code, Sublime Text, Zed**
-  ##**Art Editors**: **Aseprite, Figma, Canva**
+  ## **Art Editors**: **Aseprite, Figma, Canva**
