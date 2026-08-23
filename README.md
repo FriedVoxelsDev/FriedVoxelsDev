@@ -5,13 +5,13 @@ ________________________________________________________________________________
 
 # What I'm Working On
 
- ## I'm currently learning Web Development using React & Tailwind CSS
+ ## I'm currently learning Web Development using Astro.js & Tailwind.Css
   
-  ## I'm currently particpating/preparing for the Sparkhacks Hackathon hosted by CodeNinjas & The Brackeys Game Jam   2026.2
+  ## I'm currently particpating/preparing for the The Brackeys Game Jam   2026.2
  _______________________________________________________________________________________________________________________
  # Toolkit
  
-  ## **Languages**: **Lua and JavaScript**
-  ## **FrameWorks**: **Love2D and React.js**
+  ## **Languages**: **Lua, Python and JavaScript**
+  ## **FrameWorks**: **Love2D, Pygame and Astro.js**
   ## **Editors**: **VS Code, Sublime Text, Zed**
   ## **Art Editors**: **Aseprite, Figma, Canva**
