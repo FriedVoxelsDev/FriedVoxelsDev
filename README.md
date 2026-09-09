@@ -7,11 +7,11 @@ ________________________________________________________________________________
 
  ## I'm currently learning Web Development using Astro.js & Tailwind.Css
   
-  ## I'm currently particpating/preparing for the The Brackeys Game Jam   2026.2
+  ## Learning Arduino using a C++ fork
  _______________________________________________________________________________________________________________________
  # Toolkit
  
-  ## **Languages**: **Lua, Python and JavaScript**
-  ## **FrameWorks**: **Love2D, Pygame and Astro.js**
+  ## **Languages**: **Lua, C++ and JavaScript**
+  ## **FrameWorks**: **Love2D, Arduino IDE and Astro.js**
   ## **Editors**: **VS Code, Sublime Text, Zed**
   ## **Art Editors**: **Aseprite, Figma, Canva**
