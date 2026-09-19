@@ -15,3 +15,4 @@ ________________________________________________________________________________
   ## **FrameWorks**: **Love2D, Arduino IDE and Astro.js**
   ## **Editors**: **VS Code, Sublime Text, Zed**
   ## **Art Editors**: **Aseprite, Figma, Canva**
+  ## **AI**: Gemini CLI
