@@ -15,16 +15,16 @@ ________________________________________________________________________________
 
  ## Competing in the Mini Game Jam 220
 
- ## Working on a board game about B6Fread Boards
+ ## Working on a board game about Bread Boards
 
  ## Modding a Lenovo CT-X636F and creating a custom launcher for it
  
  _______________________________________________________________________________________________________________________
  # Toolkit
  
-  ## **Languages**: **Lua, C++ and JavaScript**
+  ## **Languages**: **Lua, C++, JavaScript**
   
-  ## **FrameWorks**: **Love2D, Arduino IDE and Astro.js**
+  ## **FrameWorks**: **Love2D, Arduino IDE, Astro.js**
   
   ## **Code Editors**: **VS Code, Sublime Text, Zed**
   
