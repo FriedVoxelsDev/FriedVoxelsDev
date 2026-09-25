@@ -5,20 +5,22 @@ ________________________________________________________________________________
 
 # What I'm Working On
 
- ## I'm currently learning Web Development using Astro.js & Tailwind CSS
-  
- ## Learning Arduino using a C++ fork
-
  ## Creating a Linux distro for educational devices
+
+ ## Modding a Lenovo CT-X636F and creating a custom launcher using Lua
 
  ## Creating applications for modded Kindles
 
  ## Competing in the Mini Game Jam 220
-
- ## Working on a board game about Bread Boards
-
- ## Modding a Lenovo CT-X636F and creating a custom launcher for it
  
+ _______________________________________________________________________________________________________________________
+ 
+# What I'm Learning
+
+ ## I'm currently learning Web Development using Astro.js & Tailwind CSS
+  
+ ## Learning Arduino using a C++ fork
+
  _______________________________________________________________________________________________________________________
  # Toolkit
  
