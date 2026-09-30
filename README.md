@@ -10,14 +10,14 @@ ________________________________________________________________________________
  ## Modding a Lenovo CT-X636F and creating a custom launcher using Lua
 
  ## Creating applications for modded Kindles
-
- ## Competing in the Mini Game Jam 220
  
  _______________________________________________________________________________________________________________________
  
 # What I'm Learning
 
- ## I'm currently learning Web Development using Astro.js & Tailwind CSS
+ ## I'm currently learning Web Development using Astro.js 
+
+ ## I'm learning the Lapis Framework
   
  ## Learning Arduino using a C++ fork
 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
  
   ## **Languages**: **Lua, C++, JavaScript**
   
-  ## **FrameWorks**: **Love2D, Arduino IDE, Astro.js**
+  ## **FrameWorks**: **Love2D, Arduino IDE, Astro.js, Lapis**
   
   ## **Code Editors**: **VS Code, Sublime Text, Zed**
   
