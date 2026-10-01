@@ -36,34 +36,34 @@ Lua • C++ • JavaScript
 <details>
 <summary>🧩 Frameworks</summary>
 
-Love2D • Arduino IDE • Astro.js • Lapis
+  Love2D • Arduino IDE • Astro.js • Lapis
 
 </details>
 
 <details>
 <summary>✍️ Code Editors</summary>
 
-VS Code • Sublime Text • Zed
+  VS Code • Sublime Text • Zed
 
 </details>
 
 <details>
 <summary>🎨 Art Editors</summary>
 
-Aseprite • Figma • Canva
+  Aseprite • Figma • Canva
 
 </details>
 
 <details>
 <summary>🤖 AI</summary>
 
-Gemini CLI • OpenCode
+  Gemini CLI • OpenCode
 
 </details>
 
 <details>
 <summary>🐧 Linux</summary>
 
-Cubic • Arch Linux • Ubuntu Server • Fedora Linux
+  Cubic • Arch Linux • Ubuntu Server • Fedora Linux
 
 </details>
