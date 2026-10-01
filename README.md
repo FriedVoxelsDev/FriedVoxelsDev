@@ -4,46 +4,66 @@
 
 ---
 
-# 🚀 What I'm Working On
+<details>
+<summary>🚀 What I'm Working On</summary>
 
-### 🐧 Creating a Linux distro for educational devices
+- Creating a Linux distro for educational devices
+- Modding a Lenovo CT-X636F and creating a custom launcher using Lua
+- Creating applications for modded Kindles
 
-### 📱 Modding a Lenovo CT-X636F and creating a custom launcher using Lua
+</details>
 
-### 🔥 Creating applications for modded Kindles
+<details>
+<summary>📚 What I'm Learning</summary>
 
----
+- I'm currently learning Web Development using Astro.js
+- I'm learning the Lapis Framework
+- Learning Arduino using a C++ fork
 
-# 📚 What I'm Learning
-
-### 🌐 I'm currently learning Web Development using Astro.js
-
-### ⚡ I'm learning the Lapis Framework
-
-### 🤖 Learning Arduino using a C++ fork
+</details>
 
 ---
 
 # 🛠️ Toolkit
 
-## 💻 Languages
-**Lua • C++ • JavaScript**
+<details>
+<summary>💻 Languages</summary>
 
-## 🧩 Frameworks
-**Love2D • Arduino IDE • Astro.js • Lapis**
+Lua • C++ • JavaScript
 
-## ✍️ Code Editors
-**VS Code • Sublime Text • Zed**
+</details>
 
-## 🎨 Art Editors
-**Aseprite • Figma • Canva**
+<details>
+<summary>🧩 Frameworks</summary>
 
-## 🤖 AI
-**Gemini CLI • OpenCode**
+Love2D • Arduino IDE • Astro.js • Lapis
 
-## 🐧 Linux
-**Cubic • Arch Linux • Ubuntu Server • Fedora Linux**
+</details>
 
----
+<details>
+<summary>✍️ Code Editors</summary>
 
-⭐ Thanks for visiting my profile!
+VS Code • Sublime Text • Zed
+
+</details>
+
+<details>
+<summary>🎨 Art Editors</summary>
+
+Aseprite • Figma • Canva
+
+</details>
+
+<details>
+<summary>🤖 AI</summary>
+
+Gemini CLI • OpenCode
+
+</details>
+
+<details>
+<summary>🐧 Linux</summary>
+
+Cubic • Arch Linux • Ubuntu Server • Fedora Linux
+
+</details>
