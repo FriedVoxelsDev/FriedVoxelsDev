@@ -34,4 +34,4 @@ ________________________________________________________________________________
   
   ## **AI**: Gemini CLI, OpenCode
   
-  ## **Linux**: LFS (Linux From Scratch), Ubuntu Server, Arch ISO, Arch Linux, Debian Linux, Fedora Linux
+  ## **Linux**: Cubic, Arch Linux, Ubuntu Server, Fedora Linux
