@@ -1,12 +1,13 @@
 # Hi there 👋
 
-## I'm **Darsh**, a 13yr old student enthusiastic about Game Development
+## I'm **Darsh**, a 13yr old student Indie Game Development
 
 ---
 
 <details>
 <summary>🚀 What I'm Working On</summary>
 
+- Creating a roguelike game inspired by the book series "Where is Waldo?" using the Love2D framework
 - Creating a Linux distro for educational devices
 - Modding a Lenovo CT-X636F and creating a custom launcher using Lua
 - Creating applications for modded Kindles
