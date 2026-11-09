@@ -37,7 +37,7 @@ Lua • C++ • JavaScript
 <details>
 <summary>🧩 Frameworks</summary>
 
-  Love2D • Arduino IDE • Astro.js • Lapis
+  Love2D • Arduino IDE • Lapis
 
 </details>
 
@@ -51,14 +51,14 @@ Lua • C++ • JavaScript
 <details>
 <summary>🎨 Art Editors</summary>
 
-  Aseprite • Figma • Canva
+  Aseprite • Figma • Canva • Affinity
 
 </details>
 
 <details>
 <summary>🤖 AI</summary>
 
-  Gemini CLI • OpenCode
+  Gemini CLI • OpenCode • Openrouter • Hugging Face
 
 </details>
 
