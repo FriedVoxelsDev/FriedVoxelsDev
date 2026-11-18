@@ -30,7 +30,7 @@
 <details>
 <summary>💻 Languages</summary>
 
-Lua • C++ • JavaScript
+Lua • C++ • Bash
 
 </details>
 
