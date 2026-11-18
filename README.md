@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm **Darsh**, a 13yr old student Indie Game Development
+## I'm **Darsh**, a 13yr old student interested in Indie Game Development
 
 ---
 
